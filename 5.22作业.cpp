@@ -1,3 +1,4 @@
+//大整数中的素数
 #include<cstdio>
 #include<iostream>
 #include<cstdlib>
